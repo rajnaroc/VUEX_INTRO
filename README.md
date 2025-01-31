@@ -1,1 +1,1 @@
-# vuex_intro
+# VUEX_INTRO
